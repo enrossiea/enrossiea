@@ -1,5 +1,4 @@
 ## Hello there!
 
-- 🔭 I’m currently working on Shiny Apps in R
-- 🌱 I’m currently learning Git and GitHub
-- ⚡ Fun fact: I play the Sax 🎷
+I'm a Mathematician who also codes sometimes.
+I've recently been enjoing R and especially Shiny Apps, which is why I started using Git and GitHub.
